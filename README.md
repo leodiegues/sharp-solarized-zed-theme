@@ -3,6 +3,7 @@
 
 <p align="center">
     <span><i>A sepia-toned, high-contrast light theme family for [Zed](https://zed.dev).</i></span>
+    </br>
     <a href="https://github.com/leodiegues/sharp-solarized-zed-theme/stargazers"><img src="https://img.shields.io/github/stars/leodiegues/sharp-solarized-zed-theme?colorA=d2ccb8&colorB=423e31&style=for-the-badge"></a>
     <a href="https://github.com/leodiegues/sharp-solarized-zed-theme/issues"><img src="https://img.shields.io/github/issues/leodiegues/sharp-solarized-zed-theme?colorA=d2ccb8&colorB=423e31&style=for-the-badge"></a>
     <a href="https://github.com/leodiegues/sharp-solarized-zed-theme/contributors"><img src="https://img.shields.io/github/contributors/leodiegues/sharp-solarized-zed-theme?colorA=d2ccb8&colorB=423e31&style=for-the-badge"></a>
