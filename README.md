@@ -2,7 +2,7 @@
 
 A sepia-toned, high-contrast light theme family for [Zed](https://zed.dev).
 
-[![Zed Extension](https://img.shields.io/badge/-Zed_Extension-blue?style=for-the-badge&logo=zedindustries&logoColor=%23423e31&logoSize=auto&labelColor=%23d2ccb8&color=%23423e31)](https://zed.dev/extensions/sharp-solarized)
+[![Zed Extension](https://img.shields.io/badge/-Zed_Extension-blue?style=for-the-badge&logo=zedindustries&logoColor=%23423e31&logoSize=auto&labelColor=%23d2ccb8&color=%23423e31)](https://zed.dev/extensions/sharp-solarized-theme)
 [![Stars](https://img.shields.io/github/stars/leodiegues/sharp-solarized-zed-theme?colorA=d2ccb8&colorB=423e31&style=for-the-badge)](https://github.com/leodiegues/sharp-solarized-zed-theme/stargazers)
 [![Issues](https://img.shields.io/github/issues/leodiegues/sharp-solarized-zed-theme?colorA=d2ccb8&colorB=423e31&style=for-the-badge)](https://github.com/leodiegues/sharp-solarized-zed-theme/issues)
 [![Contributors](https://img.shields.io/github/contributors/leodiegues/sharp-solarized-zed-theme?colorA=d2ccb8&colorB=423e31&style=for-the-badge)](https://github.com/leodiegues/sharp-solarized-zed-theme/contributors)
