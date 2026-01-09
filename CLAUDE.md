@@ -16,10 +16,16 @@ This is a Zed editor theme extension providing the "Sharp Solarized" theme famil
 ## File Structure
 
 ```
-sharp-solarized-zed/
-├── extension.toml          # Extension manifest for Zed
+sharp-solarized-zed-theme/
+├── extension.toml              # Extension manifest for Zed
+├── LICENSE                     # MIT license
+├── README.md                   # Project documentation
+├── CLAUDE.md                   # Claude Code instructions
+├── assets/
+│   ├── sharp-solarized.png     # Theme screenshot
+│   └── sharp-solarized-plus.png # Theme+ screenshot
 └── themes/
-    └── sharp-solarized.json  # Theme definitions (schema v0.2.0)
+    └── sharp-solarized-theme.json  # Theme definitions (schema v0.2.0)
 ```
 
 ## Development
@@ -27,7 +33,7 @@ sharp-solarized-zed/
 ### Local Testing
 Copy the theme file to your Zed themes directory:
 ```bash
-cp themes/sharp-solarized.json ~/.config/zed/themes/
+cp themes/sharp-solarized-theme.json ~/.config/zed/themes/
 ```
 Then select the theme in Zed settings.
 

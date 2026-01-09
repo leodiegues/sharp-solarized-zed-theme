@@ -2,13 +2,27 @@
 
 A sepia-toned, high-contrast light theme family for [Zed](https://zed.dev).
 
+<p align="center">
+	<a href="https://github.com/leodiegues/sharp-solarized-zed-theme/stargazers"><img src="https://img.shields.io/github/stars/leodiegues/sharp-solarized-zed-theme?colorA=767470&colorB=b02402&style=for-the-badge"></a>
+	<a href="https://github.com/leodiegues/sharp-solarized-zed-theme/issues"><img src="https://img.shields.io/github/issues/leodiegues/sharp-solarized-zed-theme?colorA=767470&colorB=471acc&style=for-the-badge"></a>
+	<a href="https://github.com/leodiegues/sharp-solarized-zed-theme/contributors"><img src="https://img.shields.io/github/contributors/leodiegues/sharp-solarized-zed-theme?colorA=767470&colorB=147641&style=for-the-badge"></a>
+</p>
+
 ## Variants
 
 ### Sharp Solarized
 
+<p align="center">
+    <img src="assets/sharp-solarized.png"/>
+</p>
+
 A monochrome palette with a single accent color for highlighting strings (dark red).
 
 ### Sharp Solarized+
+
+<p align="center">
+    <img src="assets/sharp-solarized-plus.png"/>
+</p>
 
 A three-color palette featuring distinct colors for:
 
