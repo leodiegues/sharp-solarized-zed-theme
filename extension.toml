@@ -1,0 +1,11 @@
+[extension]
+id = "sharp-solarized"
+name = "Sharp Solarized"
+version = "0.0.1"
+schema_version = 1
+authors = ["Leo Diegues"]
+description = "A sepia-toned, high-contrast light theme family based on tinytinytinytiny and Josh Spicer's VSCode themes"
+repository = "https://github.com/leodiegues/sharp-solarized-zed"
+
+[themes]
+themes = ["themes/sharp-solarized.json"]
