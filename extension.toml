@@ -1,4 +1,3 @@
-[extension]
 id = "sharp-solarized-theme"
 name = "Sharp Solarized Theme"
 version = "0.0.1"
@@ -6,6 +5,3 @@ schema_version = 1
 authors = ["Leo Diegues <leo@diegues.dev>"]
 description = "A sepia-toned, high-contrast light theme family based on tinytinytinytiny and Josh Spicer's VSCode themes"
 repository = "https://github.com/leodiegues/sharp-solarized-zed-theme"
-
-[themes]
-themes = ["themes/sharp-solarized-theme.json"]
